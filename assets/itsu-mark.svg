@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Itsu</title>
+  <desc id="desc">ネイビーとコーラルの円環に縦線を組み合わせたItsuのマーク</desc>
+  <rect width="1024" height="1024" rx="224" fill="#F1F5F9"/>
+  <path d="M420 216A308 308 0 1 0 806 558" fill="none" stroke="#1F2937" stroke-width="88" stroke-linecap="round"/>
+  <path d="M515 205A308 308 0 0 1 812 453" fill="none" stroke="#FF6B4A" stroke-width="88" stroke-linecap="round"/>
+  <path d="M512 438v150" fill="none" stroke="#1F2937" stroke-width="64" stroke-linecap="round"/>
+</svg>
